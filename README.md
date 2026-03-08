@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nngocsonk3&label=Profile%20views&color=0e75b6&style=flat" alt="nngocsonk3" /> </p>
 
-//<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [Facebook](https://www.facebook.com/nngocson.k3/)
 
 - 🌱 I’m currently learning **Vietnam Korea University of Information and Communication Technology**
