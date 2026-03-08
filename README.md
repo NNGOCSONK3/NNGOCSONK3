@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NNGOCSONK3](https://github.com/NNGOCSONK3)
 
-- 📫 How to reach me **skt280623@gmail.com**
+- 📫 How to reach me **nngocsonk3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
